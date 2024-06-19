@@ -1,11 +1,3 @@
----
-layout: post
-title: "Reverse Shell in Go"
-date: 2024-06-18
-categories: Reconnaissance Enumeration
-tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
-permalink: /go-revshell/
----
 
     # Building a Reverse Shell in Go
 
