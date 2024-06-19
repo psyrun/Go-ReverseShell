@@ -1,5 +1,4 @@
-
-    # Building a Reverse Shell in Go
+# Building a Reverse Shell in Go
 
     In this tutorial, we'll explore how to create a basic reverse shell in Go. A reverse shell is a type of shell where the target machine communicates back to the attacking machine. This can be useful for remote administration or accessing a system that is behind a firewall.
 
